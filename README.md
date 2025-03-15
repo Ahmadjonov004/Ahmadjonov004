@@ -37,8 +37,6 @@ Welcome to my GitHub profile! I'm on a journey to become a **highly skilled deve
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asilbek-ahmadjonov)
 
-## ⏳ WakaTime Coding Stats  
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ahmadjonov004&langs_count=5&theme=transparent)](https://wakatime.com/@ahmadjonov004)
 
 
 
